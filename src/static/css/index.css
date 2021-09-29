@@ -1,0 +1,16 @@
+table.genres{
+    width: 200px;
+    display: inline-block;
+}
+
+table.genres > tbody > tr > td {
+    min-width: 150px
+}
+
+div.displayMovies{
+    display: inline-block;
+}
+
+div.invalid-feedback{
+    display: block;
+}
